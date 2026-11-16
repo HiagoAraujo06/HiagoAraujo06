@@ -32,8 +32,7 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HiagoAraujo06&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoAraujo06&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiagoAraujo06&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
 ---
