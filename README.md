@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Hiago Araujo 👋</h1>
 <p align="center">
-  <b>Estudante de desenvolvimento back-end</b> · Java & Spring Boot
+  <b>Estudante de desenvolvimento Full-Stack</b> · Java & Spring Boot
 </p>
 
 <p align="center">
